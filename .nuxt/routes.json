@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\home",
+        "_name": "_b1d6710e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\loginOrRegister",
+        "_name": "_679e59d6"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\loginOrRegister",
+        "_name": "_679e59d6"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\profile",
+        "_name": "_178778cf"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\settings",
+        "_name": "_6aa7b1bd"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\editor",
+        "_name": "_2f45b587"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "C:\\\\project\\\\code\\\\homework\\\\nuxt-js\\\\pages\\\\article",
+        "_name": "_035c87c8"
+      }
+    ],
+    "_name": "_3b148f44"
+  }
+]
